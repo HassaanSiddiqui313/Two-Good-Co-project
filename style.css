@@ -153,9 +153,9 @@ nav{
     font-weight: bold;
     font-family: 'futura';
 }
-/* .p1heading3{
-    margin-left: 2vw;
-} */
+.p1heading3{
+    margin-left: 1vw;
+}
 .animation{
     overflow: hidden;
 }
